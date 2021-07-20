@@ -1,1 +1,6 @@
 # m12-hw12-falter-sarah
+I had no issues.
+https://www.javascripttutorial.net/javascript-dom/javascript-innerhtml/
+https://stackoverflow.com/questions/26316536/javascript-array-and-innerhtml
+https://www.w3schools.com/js/js_array_sort.asp
+1.  Create a GitHub Repository named “m12-hw12-lastname-firstname” replacing “lastname” and “firstname” with your own2.  Using logical Git commits, complete the following in the master branch:a.  Add an index.html, main.css, and main.js file to your repob.  Add a simple HTML5 structure to index.htmlc.  Using the index.html file and main.js file with ES6 (const, let, arrow functions) create the following functionality:i.Create an array of 10 strings. These can be anything you’d like. ii.Add a button to your HTML that will invoke the functionalityiii.When the button is clicked, randomize the array and use the innerHTML() method to add the first item of the array to the page each time it is clicked iv.Be creative! This will demonstrate the functionality you may use to create your lunch generator for project 3. This does NOT have to be a lunch generator. This can be a random generator of any sort, but you must style it creatively.  d.  Push all commits to your remote GitHub repository

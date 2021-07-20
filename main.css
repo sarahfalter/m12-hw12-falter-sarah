@@ -14,7 +14,7 @@ body {
 
 header {
     text-align: center;
-    background: white;
+    background: #210000;;
     box-shadow: 1px 1px 6px #00000052;
     padding: 1%;
 }
@@ -28,8 +28,9 @@ h1 {
 
 main {
     text-align: center;
-    padding-top: 10%;
-
+    background: #1b1a1a8f;
+    width: 100%;
+    min-height: 100vh;
 }
 
 button {
@@ -37,15 +38,17 @@ button {
     font-size: 1.5rem;
     color: rgb(109, 24, 31);
     background: rgb(241, 188, 89);
-    padding: 5px 40px;
+    padding: 5px 80px;
     border: none;
     border-radius: 50px;
     margin-bottom: 3%;
     cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 3px;
 }
 
 button:hover {
-    background: rgb(109, 24, 31);
+    background: #210000;;
     color: rgb(241, 188, 89);
     transition: .2s ease;
 }
@@ -54,9 +57,9 @@ span {
     color: rgb(241, 188, 89);
     display: block;
     font-family: 'Oswald', sans-serif;
-    font-weight: bolder;
     font-size: 5rem;  
+    font-weight: lighter;
     letter-spacing: 5px;
-    padding-bottom: 5%;
+    padding: 10% 0 5% 0;
 }
 
